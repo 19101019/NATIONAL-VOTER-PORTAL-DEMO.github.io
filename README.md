@@ -1,4 +1,4 @@
-# NATIONAL-VOTER-PORTAL-DEMO.github.io
+
 # NATIONAL-VOTER-PORTAL-DEMO.github.io
 The Election Commission of India (ECI) in its endeavor to put in efforts in providing all possible support services to electors with the help of IT tools has created the National Voter Service Portal (NVSP). The portal was launched on 25th January 2015 on the occasion of National Voters’ Day.
 
